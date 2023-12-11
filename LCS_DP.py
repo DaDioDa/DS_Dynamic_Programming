@@ -1,3 +1,15 @@
+#     __________
+#    |  __  __  |
+#    | |  ||  | |    ヾ○ｼ
+#    | |__||__| |    ヘ/
+#    |          |     ノ
+#    |  __  __  |
+#    | |  ||  | |
+#    | |__||__| |
+#    |          |
+#    |          |
+
+
 import sys
 import time
 import Sequence
@@ -49,6 +61,8 @@ sys.setrecursionlimit(10000)
 
 X = Sequence.TestSet1.Sq1
 Y = Sequence.TestSet1.Sq2
+# X = "ATGCTAGCATCGATCGATGATAAT"
+# Y = "TACGATCGTAGCATCGTACATGTA"
 
 print("X: ", X)
 print("Y: ", Y)
